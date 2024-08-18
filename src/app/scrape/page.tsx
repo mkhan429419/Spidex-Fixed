@@ -142,7 +142,7 @@ const Page: React.FC = () => {
 
   return (
     <>
-      {/* <Header /> */}
+      <Header />
       <div
         className={`${dmSans.className} min-h-screen bg-[radial-gradient(ellipse_200%_100%_at_bottom_left,#183EC2,#EAEEFE_66%)] flex flex-col`}
       >
